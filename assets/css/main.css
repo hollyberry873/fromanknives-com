@@ -2088,7 +2088,7 @@
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			border-radius: 50%;
 		}
 
 			.image.avatar:before {
@@ -2106,6 +2106,11 @@
         height: 350px;
 				max-width: 100%;
       }
+
+			#container {
+        width: 800px;
+				position: absolute;
+			}
 
 /* List */
 
