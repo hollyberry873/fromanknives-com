@@ -2108,6 +2108,10 @@
 			max-width: 100%;
     }
 
+		#container {
+			width: 800px;
+		}
+
 /* List */
 
 	ol {
@@ -2149,7 +2153,7 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
-			padding-top: 270px;
+			padding-top: 125px;
 		}
 
 			ul.icons li {
